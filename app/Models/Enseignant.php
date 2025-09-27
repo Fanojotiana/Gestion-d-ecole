@@ -13,7 +13,6 @@ class Enseignant extends Model
         'nom',
         'prenom',
         'matricule',
-
         'grade',
         'email',
         'telephone',

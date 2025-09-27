@@ -45,7 +45,7 @@
                         <span class="menu-arrow"></span>
                     </a>
                     <ul>
-                        <li><a href="{{ route('enseignant.presences.index') }}">Gérer les présences</a></li>
+                        {{--<li><a href="{{ route('enseignant.presences.index') }}">Gérer les présences</a></li>--}}
 
                         <li><a href="">Liste des cours</a></li>
                         <li><a href="">Ajout de cours</a></li>
